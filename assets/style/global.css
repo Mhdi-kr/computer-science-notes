@@ -1,6 +1,12 @@
 body {
-    margin: 0;
     background-color: #f0f5f9;
     color: #1e2022;
-    font-family: 'Commissioner', sans-serif;
+    font-family: 'Commissioner', sans-serif !important;
+    scroll-behavior: smooth;
+}
+.sticky {
+    position: fixed;
+    z-index: 200;
+    top: 0;
+    width: 100%;
 }

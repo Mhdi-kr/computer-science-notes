@@ -21,8 +21,3 @@
 .nav-item:hover {
     background-color: #b1bcc4;
 }
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
