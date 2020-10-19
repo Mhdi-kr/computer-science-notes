@@ -10,3 +10,23 @@ body {
     top: 0;
     width: 100%;
 }
+@media screen and (max-width: 768px), print {
+    .button.is-fullwidth-mobile {
+        display: flex;
+        width: 100%;
+    }
+}
+.fullwidth-centered {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.log-container {
+    width: 330px;
+    height: 270px;
+}
+.register-container {
+    width: 330px;
+    height: 360px;
+}
