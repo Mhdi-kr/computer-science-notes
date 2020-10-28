@@ -1,32 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4145863-a22e-48a4-8032-c00d005aff61" name="Default Changelist" comment="">
+    <list default="true" id="93f3b686-f9ba-48ce-ba4a-1b0c07bec1c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/155-1553268_pics-photos-related-pictures-cool-nike-shoes-wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/316-köpa-latest-nike-sneakers-online-billig-nike-air-jordan-trainers-5523.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/Air-Jordan-1-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/FY16_INNO_SNOWCAP_v2_HERO_RT_NoEarl_V1_hd_1600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/P-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/P-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/P-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/P-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/Where-To-Buy-The-Nike-Kyrie-4-Halloween-in-2019-Nike-kyrie-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/air-jordan-shoes-wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/download (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/london_pilgrimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/nike-metcon-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/soccer-banner-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/starry_night.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/unnamed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +49,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1io7K1F2esH3ijBa3136279qR7q" />
+  <component name="ProjectId" id="1jWKZi8zfzVxrc00JTRqdiJQ6QO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,66 +61,21 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Developement\vanilla-shop" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c4145863-a22e-48a4-8032-c00d005aff61" name="Default Changelist" comment="" />
-      <created>1602562022438</created>
+      <changelist id="93f3b686-f9ba-48ce-ba4a-1b0c07bec1c9" name="Default Changelist" comment="" />
+      <created>1603914464780</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602562022438</updated>
-      <workItem from="1602562023506" duration="8775000" />
-      <workItem from="1602696267820" duration="2434000" />
-      <workItem from="1602735183123" duration="17638000" />
-      <workItem from="1602832510807" duration="5362000" />
-      <workItem from="1603113855073" duration="906000" />
-      <workItem from="1603114790379" duration="8919000" />
-      <workItem from="1603224374615" duration="17000" />
-      <workItem from="1603476781625" duration="4991000" />
+      <updated>1603914464780</updated>
+      <workItem from="1603914466479" duration="22000" />
+      <workItem from="1603914988564" duration="484000" />
+      <workItem from="1603924836872" duration="589000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="721" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602832538762">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="721" y="315" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1602832538762" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1603224390456">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="740" y="280" key="FileChooserDialogImpl/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1603224390456" />
-    <state x="777" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602736298774">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="777" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1602736298774" />
-    <state x="2345" y="189" key="run.anything.popup" timestamp="1603114237218">
-      <screen x="1920" y="0" width="1536" height="840" />
-    </state>
-    <state x="2345" y="189" key="run.anything.popup/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1603114237218" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1603478933787">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1603123596384" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/4.1080.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1603478933787" />
   </component>
 </project>

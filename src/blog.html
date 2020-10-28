@@ -8,24 +8,15 @@
     <!--    <link rel="stylesheet" href="assets/style">-->
     <link href="https://fonts.googleapis.com/css2?family=Commissioner:wght@300&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/style/global.css">
-    <link rel="stylesheet" href="assets/style/header.css">
+    <link rel="stylesheet" href="../assets/style/global.css">
+    <link rel="stylesheet" href="../assets/style/header.css">
     <script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
-<!--    <link rel="stylesheet" href="assets/style/navbar.css">-->
-<!--    <link rel="stylesheet" href="assets/style/content.css">-->
-<!--    <link rel="stylesheet" href="assets/style/product-card.css">-->
-<!--    <link rel="stylesheet" href="assets/style/animations.css">-->
-    <link rel="stylesheet" href="assets/style/slider.css">
+    <link rel="stylesheet" href="../assets/style/slider.css">
     <title>Vanillashop - HTML5, CSS3, vanilla js commercial website</title>
 </head>
 <body>
-<!-- ** login page ** -->
-<!--TODO registration form (email, phone number, 2 password inputs) login redirection and signup button -->
-<!--TODO password validation at least 6 characters and alpha-numeric-->
-<!--TODO login form with (email and password) + registry redirect and login button -->
-<!-- ** main page ** -->
-<div class='sliderz'>
+<div class='sliders'>
     <div class='slide1'></div>
     <div class='slide2'></div>
     <div class='slide3'></div>
@@ -39,17 +30,17 @@
         </a>
         <div id="navbarBasicExample" class="navbar-menu" style="max-width: 900px; margin: auto">
             <div class="navbar-start">
-                <a class="navbar-item" href="blog.html">Home</a>
+                <a class="navbar-item">Home</a>
                 <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-link">Shop</a>
+                    <a class="navbar-link" href="shop.html">Shop</a>
                     <div class="navbar-dropdown">
                         <a class="navbar-item">Sports and basketball</a>
                         <a class="navbar-item">Casual</a>
                         <a class="navbar-item">Accessories</a>
                     </div>
                 </div>
-                <a class="navbar-item">Blog</a>
-                <a class="navbar-item">Contact</a>
+                <a class="navbar-item" href="blog.html">Blog</a>
+                <a class="navbar-item" href="contact.html">Contact</a>
             </div>
 
             <div class="navbar-end">
@@ -72,7 +63,7 @@
         <div class="card mt-5">
             <div class="card-image">
                 <figure class="image is-3by1">
-                    <img src="assets/images/products/nike-3.jpg" alt="Placeholder image">
+                    <img src="../assets/images/products/blog-post-1.jpg" alt="Placeholder image">
                 </figure>
             </div>
             <div class="card-content">
@@ -95,7 +86,7 @@
         <div class="card mt-5">
             <div class="card-image">
                 <figure class="image is-3by1">
-                    <img src="assets/images/products/nike-21.jpg" alt="Placeholder image">
+                    <img src="../assets/images/products/blog-post-2.jpg" alt="Placeholder image">
                 </figure>
             </div>
             <div class="card-content">
@@ -118,7 +109,7 @@
         <div class="card mt-5">
             <div class="card-image">
                 <figure class="image is-3by1">
-                    <img src="assets/images/products/nike-8.jpg" alt="Placeholder image">
+                    <img src="../assets/images/products/blog-post-3.jpg" alt="Placeholder image">
                 </figure>
             </div>
             <div class="card-content">
@@ -141,7 +132,7 @@
         <div class="card mt-5">
             <div class="card-image">
                 <figure class="image is-3by1">
-                    <img src="assets/images/products/nike-7.jpg" alt="Placeholder image">
+                    <img src="../assets/images/products/blog-post-4.jpg" alt="Placeholder image">
                 </figure>
             </div>
             <div class="card-content">
@@ -164,7 +155,7 @@
         <div class="card mt-5">
             <div class="card-image">
                 <figure class="image is-3by1">
-                    <img src="assets/images/products/nike-66.jpg" alt="Placeholder image">
+                    <img src="../assets/images/products/blog-post-5.jpg" alt="Placeholder image">
                 </figure>
             </div>
             <div class="card-content">
@@ -187,7 +178,7 @@
         <div class="card mt-5">
             <div class="card-image">
                 <figure class="image is-3by1">
-                    <img src="assets/images/products/nike-5.jpg" alt="Placeholder image">
+                    <img src="../assets/images/products/blog-post-6.jpg" alt="Placeholder image">
                 </figure>
             </div>
             <div class="card-content">
@@ -210,7 +201,7 @@
         <div class="card mt-5">
             <div class="card-image">
                 <figure class="image is-3by1">
-                    <img src="assets/images/products/nike-4.jpg" alt="Placeholder image">
+                    <img src="../assets/images/products/blog-post-7.jpg" alt="Placeholder image">
                 </figure>
             </div>
             <div class="card-content">
@@ -245,7 +236,7 @@
         <div class="column is-one-third">
             <div class="is-flex is-flex-direction-column">
                 <h4 class="is-size-5 mb-2">Content</h4>
-                <a href="index.html">Home</a>
+                <a>Home</a>
                 <a href="shop.html">Shop</a>
                 <a href="blog.html">Blog</a>
             </div>
@@ -265,19 +256,7 @@
             </div>
         </div>
 </footer>
-<!--TODO main page: header, navbar, latest products list, special offer list and footer -->
-<!--TODO sticky navbar content => main, contact, shop, blog, login, cart -->
-<!--TODO ^shop -> drop down (categories) -->
-<!--TODO header is carousel -->
-<!--TODO latest list: at least 8 products with price and discounts (at least two must have discounts)-->
-<!--TODO discount styling is strikethrough 4-->
-<!--TODO footer has 1 row and 3 columns -> navbar links without login, contact information, newsletter-->
-<!-- ** Contact page ** -->
-<!-- TODO contact form -->
-
-<!-- ** Blog page ** -->
-<!-- TODO 3 posts -->
 </body>
-<script src="assets/scripts/navbar.js"></script>
+<script src="../assets/scripts/navbar.js"></script>
 <script src="https://kit.fontawesome.com/d5cc1044db.js"></script>
 </html>
