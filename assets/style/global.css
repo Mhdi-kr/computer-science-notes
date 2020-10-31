@@ -30,3 +30,7 @@ body {
     width: 330px;
     height: 360px;
 }
+.is-strike-through {
+    text-decoration: line-through;
+    color: grey;
+}
